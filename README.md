@@ -4,7 +4,6 @@
 Upload File to Google Drive Using PHP
 
 Author : Gopal Joshi <br>
-Usage:
 
 <b>Update Composer</b>
 <pre><code>$ composer update</code></pre>
